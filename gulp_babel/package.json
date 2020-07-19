@@ -1,0 +1,16 @@
+{
+  "name": "gulp_babel",
+  "version": "1.0.0",
+  "description": "This is for ec6 practise",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bunty",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0"
+  }
+}
